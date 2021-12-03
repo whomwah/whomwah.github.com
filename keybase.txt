@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/whomwah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://whomwah.com
+  * I am whomwah (https://keybase.io/whomwah) on keybase.
+  * I have a public key with fingerprint B08A 48C6 5AAB 9463 8B53  11D0 A216 9097 FE9D 4B5B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "b08a48c65aab94638b5311d0a2169097fe9d4b5b",
+            "host": "keybase.io",
+            "key_id": "A2169097FE9D4B5B",
+            "uid": "eb8d84646c1e451d722054b2d36b2419",
+            "username": "whomwah"
+        },
+        "merkle_root": {
+            "ctime": 1429027601,
+            "hash": "f00a0175301de47ecee5f07e0dae7b4580bb886ef8b8ede34e6ee9979fa34264bb437e6421f90b92598d247c31327aa539c95484d5069b672e54dcaa481f9c18",
+            "seqno": 198701
+        },
+        "service": {
+            "hostname": "whomwah.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429027634,
+    "expire_in": 157680000,
+    "prev": "d8de41e485c45ebddc61a92b4e8981d98cc26fa4dff3ae0e404a9c75778f982b",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFdUn1QFVUUf09DgYlgQIkhMtyyGfH53I+7u/dCaTDqmFoqIBWoj727d2H5eIvv
+g48QkSRHTBlFzZRxYhgzDUesHOdFmhkWFKMJpOIomThKlmaIfAgDtcvQjHb/uvee
+3/md8/udsz1ooiXQWhu+fc/o/iVp1pY72LJydhxbTGFdKaJiiyk5RyNOj3lzSrmE
+iqWySRGW3MSu6dFOXSH2LHf0OMZG5ROXW9OdBoq2i3aRKrGZcDNZ1ZwZxJXn0kwu
+CtNQAlAWeEnCCAgcxDzHMAotsYyAaCSqBCkA89igzNTdnieqUmOcDk0xfuPH8QsX
+oPkggU8wYt6xAMFQgUAAgswQwDOKyLI0DzCrcAJmAYNMoJu4xiUVZOq5BVKm2W4u
+cWXnEIdL18c0yx7NRDCARTQrCjRjNCS5M40claYlmhF5jmYUAkQiE8KrtEhoRSIi
+BjykMYZQICrEkCiEA0QgBCERqRIHWAFgDDiRCIBlVERjxPIIKiwQZY7hWFGSeA7J
+iAcQKDwtICyILOGBIkuGbUaCzEBDgZusdepGcwiKNFNivl35mkzMvk3XnhRnl/Vc
+IyfPpXt0Wc8xApkeT16sqdlTlDcGJNjhJkfGOBxYcyrGyB6fqVnif35wwEaRwjzN
+RRyaieBFAdLGMeuQfINTgYY5xgggLwOeYEWRBUZCLAYEIsgoCMoyK6gSUFSVkwhN
+AA0kJIu8KEIVQRY/ptKw3iNlGJxuLcMpebwuQpVUTIh6ymINtEzym2BurSUwIOS/
+VV66LHgk6pPIKc3LM1orzlyz9aycWt7+efKlxoO7Qhvocy903zpeu2PgYx+rTUxE
+IbXbpge3R2aIrzJxghyL3xXKCxd9VRBTfWWv9+KCPDUicXa633GqkT1Ld7zd9OvD
+xad8J44dnlJaX+M/+oH33HO76fDD1IIf/6mI/PDEW635VWc23P/Z8QpXfSM49SNf
+U/u61yPdc+q61gRtOfJSeOWyazG+Hr/Eqzf1y8k7e698H5Yy6Yu6I8l/OWY5Bi4c
+GNj7pncrx93ruRGxok4qC+0cqr/VMOPZi9O5Qzc3z/8OX2p+zfq0fe7DB0GD0xbN
+fH/HRputqyXr2O+TXS1lVX8szj/Z4hUgX4XjFyJNfCd4WYr7RWv58EhvZ/KImNZX
+Cpf6rAFHW+GnIUPXu9ITZu0Z+mZqmFjrC0tZ2eAtrdq378u/t4Q3Zfd0z5yolje2
+/bl7ed36+FMjd3NhV3ncgfLkH7aHXff8dDe0GavvJX47NKzUvLH264WemMm3M08P
+tJ3vnncnpSeqqf6Bf0fE8Gf2vtGkiFXRj6zV/aunFfZ3hK6afJ/Ets3dtWhn7Ar/
+GUNTKprXdaxp9N1uFms2WM6er0pKSxrd/9um6hZIegcb2voatzJlS/bMu5wFUyur
+fWcG0eZ0y8moVJmH8yu3/dL58snmVRdgyNFHpx221Yd6A9ZfTVxTvPmZvo2h8ff6
+nz84518=
+=U/+L
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/whomwah
+
+==================================================================
